@@ -1,2 +1,5 @@
 rootProject.name = 'testproject'
 
+includeBuild 'eureka-server'
+includeBuild 'eureca-client'
+
